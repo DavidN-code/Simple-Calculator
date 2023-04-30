@@ -7,3 +7,5 @@ In JS, this project uses the document.getElementById("display") method to manipu
 There is also a switch statement for the operators involved with performing the calculations.
 
 It was good practice.  
+
+This project is from the Coding Dojo Learn Platform
